@@ -15,10 +15,5 @@
         }
       ]
     }
-  ],
-  "functions": {
-    "dist/index.html": {
-      "includeFiles": "dist/**"
-    }
-  }
+  ]
 }
