@@ -17,8 +17,8 @@
     }
   ],
   "functions": {
-    "app/dist/index.html": {
-      "includeFiles": "app/dist/**"
+    "dist/index.html": {
+      "includeFiles": "dist/**"
     }
   }
 }
